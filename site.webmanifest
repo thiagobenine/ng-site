@@ -1,0 +1,11 @@
+{
+  "name": "Nathália Ganeo",
+  "short_name": "Nathália Ganeo",
+  "icons": [
+    { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#1D2B4F",
+  "background_color": "#1D2B4F",
+  "display": "browser"
+}
